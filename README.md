@@ -54,7 +54,7 @@ Check out my pinned repositories 📌 — you'll find some of my best work, incl
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="250" alt="pink coding" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="pink sparkling heart" />
 </p>
 
 <p align="center" style="color:#ff69b4;">
