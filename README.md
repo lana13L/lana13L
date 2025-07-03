@@ -53,9 +53,7 @@ Check out my pinned repositories 📌 — you'll find some of my best work, incl
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" />
-</p>
+
 
 <p align="center" style="color:#ff69b4;">
   💕 Thanks for stopping by — let's build something beautiful together! 💕
